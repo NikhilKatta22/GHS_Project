@@ -1,0 +1,1 @@
+A web application for general civil purposes where civilians can post their grievances regarding their surroundings under various departments like water, electricity, roads etc. And also admin and workers can login through the website and jobs can assigned and tracked thoroughly.
